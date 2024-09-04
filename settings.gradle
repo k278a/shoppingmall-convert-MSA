@@ -1,3 +1,4 @@
 rootProject.name = 'shoppingmall-convert-MSA'
 
 include "shopModule-common"
+include "shopModule-email"
